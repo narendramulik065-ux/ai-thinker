@@ -1,0 +1,9 @@
+flask
+flask-cors
+openai
+streamlit
+scikit-learn
+spacy
+nltk
+python-dotenv
+requests
